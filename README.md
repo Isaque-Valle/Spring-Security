@@ -10,7 +10,7 @@ Este projeto foi desenvolvido durante o curso de **Spring Security** da [Alura](
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java 17**
+- **Java **
 - **Spring Boot 3.x**
 - **Spring Security**
 - **MySQL 8**
