@@ -46,12 +46,12 @@ As tabelas esperadas são:
 **flyway_schema_history**
 
 
-```Testando a Aplicação
+## Testando a Aplicação
 Crie registros iniciais: Após a inicialização da aplicação, insira dados nas tabelas usando o MySQL ou a interface da aplicação.
 Acesse a página de login: Teste o sistema utilizando as credenciais cadastradas no banco de dados.
 
 
-Este projeto proporcionou uma experiência prática em:
+## Este projeto proporcionou uma experiência prática em:
 
 Configuração e uso do Spring Security para proteger aplicações web.
 Integração com o banco de dados MySQL utilizando o Spring Data JPA.
