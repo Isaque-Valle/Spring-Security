@@ -41,8 +41,8 @@ show tables;
 
 As tabelas esperadas são:
 
-**medicos**
-**consultas**
+**medicos** |
+**consultas** |
 **flyway_schema_history**
 
 
